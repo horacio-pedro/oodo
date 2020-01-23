@@ -1,0 +1,23 @@
+{
+  "name": "oodo",
+  "version": "1.0.0",
+  "description": "Testing Oodo like a module fo NodeJS. Node.js client library for Odoo",
+  "main": "index.js",
+  "dependencies": {
+    "odoo": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horacio-pedro/oodo.git"
+  },
+  "author": "Horácio Pedro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/horacio-pedro/oodo/issues"
+  },
+  "homepage": "https://github.com/horacio-pedro/oodo#readme"
+}
